@@ -1,0 +1,8 @@
+# Personal Daily Expense Tracker & Monthly Budget Analyzer
+# Academic Project Dependencies - Chanakya University MCA III Sem Python Programming Lab
+# Student: Kiran R (25PG00171)
+
+matplotlib>=3.8.0
+tkcalendar>=1.6.1
+Pillow>=10.0.0
+numpy>=1.26.0
